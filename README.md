@@ -1,15 +1,17 @@
 # trustpay 通道介绍
 
-标签： Cmd-Markdown
+If you wish to read the English version, please click on the link.[english version](http://ghosertblog.github.com)
 
 ---
 
 ### 支付宝(固定金额)
 ```
 产品介绍：
+带金额和订单号
 操作说明：
+用户截图扫码或者跳转到支付宝，进行支付，回调通过金额和订单号回调
 
-过期状态：
+过期状态：已经被风控
 
 ```
 ![我的头像](https://www.zybuluo.com/static/img/my_head.jpg)
