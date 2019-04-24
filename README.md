@@ -14,7 +14,7 @@ If you wish to read the English version, please click on the link.[english versi
 过期状态：已经被风控
 
 ```
-![我的头像](https://www.zybuluo.com/static/img/my_head.jpg)
+![我的头像](https://github.com/fdjkjkfdafdfdf/document/blob/master/img/all.png)
 
 ### 支付宝红包
 ```
